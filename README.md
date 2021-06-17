@@ -1,6 +1,7 @@
 # Detection of Parkinson's Disease using machine learning algorithms.
  
 ##Libraries
+
 In this project general machine learning libraries and some additional libraries used. The libraries were used in the project are
 
 numpy==1.19.5
