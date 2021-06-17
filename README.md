@@ -33,4 +33,4 @@ Python version is 3.7.10 and the environment is Google Colaboratory. You do not 
 
 If you are not sure about libraries version, you can start to run code with first cell. If you sure about libraries version, you can start to run code with second cell. You can just press ctrl+F9 for running all cells.
 
-Note: The project is a team project. My teammate github link is:https://github.com/bakkyn
+Note: The project is a team project. My teammate's github link is:https://github.com/bakkyn
