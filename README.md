@@ -1,4 +1,4 @@
-# parkinsons-disease
+# Detection of Parkinson's Disease using machine learning algorithms.
  
 ##Libraries
 In this project general machine learning libraries and some additional libraries used. The libraries were used in the project are
@@ -29,3 +29,5 @@ Python version is 3.7.10 and the environment is Google Colaboratory. You do not 
 
 ##Running Code
 If you are not sure about libraries version, you can start to run code with first cell. If you sure about libraries version, you can start to run code with second cell. You can just press ctrl+F9 for running all cells.
+
+Note: The project is a team project. My teammate github link is:https://github.com/bakkyn
