@@ -4,12 +4,19 @@
 In this project general machine learning libraries and some additional libraries used. The libraries were used in the project are
 
 numpy==1.19.5
+
 pandas==1.1.5
+
 urllib
+
 matplotlib
+
 seaborn
+
 scikit-learn=0.22.2 #This version has to be specified. You should not use version 0.23.
+
 xgboost==0.90
+
 mlxtend==0.14.0
 
 ##Dataset
